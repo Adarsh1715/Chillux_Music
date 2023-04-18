@@ -4,122 +4,122 @@ const music = new Audio('audio/1.mp3');
 const songs = [
     {
         id: "1",
-        songName: `On My Way<br>
+        songName: `On My Way <br>
         <div class="subtitle">Alen Walker</div>`,
         poster: "img/1.jpg"
     },
     {
         id: "2",
-        songName: `arjit singh<br>
-        <div class="subtitle">arjit singh</div>`,
+        songName: `Alen Walker-Fade <br>
+        <div class="subtitle">Alen Walker</div>`,
         poster: "img/2.jpg"
     },
     {
         id: "3",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Cartoon-On&On <br>
+        <div class="subtitle">Daniel Levi</div>`,
         poster: "img/3.jpg"
     },
     {
         id: "4",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Warriyo-Mortals <br>
+        <div class="subtitle">Mortals</div>`,
         poster: "img/4.jpg"
     },
     {
         id: "5",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Ertugrul Gazi <br>
+        <div class="subtitle">Ertugrul</div>`,
         poster: "img/5.jpg"
     },
     {
         id: "6",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Electronic Music <br>
+        <div class="subtitle">Electro</div>`,
         poster: "img/6.jpg"
     },
     {
         id: "7",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Agar Tum Sath Ho <br>
+        <div class="subtitle">Tamashaa</div>`,
         poster: "img/7.jpg"
     },
     {
         id: "8",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Suna Hai <br>
+        <div class="subtitle">Neha Kakkar</div>`,
         poster: "img/8.jpg"
     },
     {
         id: "9",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Dilbar <br>
+        <div class="subtitle">Satyameva Jayate</div>`,
         poster: "img/9.jpg"
     },
     {
         id: "10",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Duniya <br>
+        <div class="subtitle">Luka Chuppi</div>`,
         poster: "img/10.jpg"
     },
     {
         id: "11",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Lagdi Lahore Di <br>
+        <div class="subtitle">Street Dancers 3D</div>`,
         poster: "img/11.jpg"
     },
     {
         id: "12",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Putt Jatt Da <br>
+        <div class="subtitle">Putt Jatt Da</div>`,
         poster: "img/12.jpg"
     },
     {
         id: "13",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Baarishein <br>
+        <div class="subtitle">Atif Aslam</div>`,
         poster: "img/13.jpg"
     },
     {
         id: "14",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Vaaste <br>
+        <div class="subtitle">Dhvani Bhanushali</div>`,
         poster: "img/14.jpg"
     },
     {
         id: "15",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Lut Gaye <br>
+        <div class="subtitle">Jubin Nautiyal</div>`,
         poster: "img/15.jpg"
     },
     {
         id: "16",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Tu Meri Zindagi Hai <br>
+        <div class="subtitle">Jubin Nautiyal</div>`,
         poster: "img/16.jpg"
     },
     {
         id: "17",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Back 2 Love <br>
+        <div class="subtitle">Ustad Rahat Fateh Ali Khan</div>`,
         poster: "img/17.jpg"
     },
     {
         id: "18",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Pasoori <br>
+        <div class="subtitle">Coke Studio</div>`,
         poster: "img/18.jpg"
     },
     {
         id: "19",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: `Insane <br>
+        <div class="subtitle">Ap Dhillon</div>`,
         poster: "img/19.jpg"
     },
     {
         id: "20",
-        songName: `On My Way<br>
-        <div class="subtitle">Alen Walker</div>`,
+        songName: ` <br>
+        <div class="subtitle"></div>`,
         poster: "img/20.jpg"
     }
 ]
